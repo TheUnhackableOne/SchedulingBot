@@ -1,0 +1,175 @@
+{
+    "projectFileVersion": "2024-11-15-preview",
+    "stringIndexType": "Utf16CodeUnit",
+    "metadata": {
+        "projectKind": "Conversation",
+        "settings": {
+            "confidenceThreshold": 0,
+            "normalizeCasing": false,
+            "augmentDiacritics": false
+        },
+        "projectName": "AppointmentSchedulerBot",
+        "multilingual": false,
+        "description": "",
+        "language": "en-us"
+    },
+    "assets": {
+        "projectKind": "Conversation",
+        "intents": [
+            {
+                "category": "None"
+            },
+            {
+                "category": "BookAppointment"
+            },
+            {
+                "category": "CancelAppointment"
+            },
+            {
+                "category": "CheckAvailability"
+            }
+        ],
+        "entities": [
+            {
+                "category": "DoctorName",
+                "compositionSetting": "combineComponents",
+                "prebuilts": [
+                    {
+                        "category": "Person.Name"
+                    },
+                    {
+                        "category": "DateTime"
+                    }
+                ]
+            }
+        ],
+        "utterances": [
+            {
+                "text": "What times are open ?",
+                "language": "en-us",
+                "intent": "CheckAvailability",
+                "entities": [],
+                "dataset": "Train"
+            },
+            {
+                "text": "Do you have free slots in the morning?",
+                "language": "en-us",
+                "intent": "CheckAvailability",
+                "entities": [],
+                "dataset": "Train"
+            },
+            {
+                "text": "I would like to know the free slots",
+                "language": "en-us",
+                "intent": "CheckAvailability",
+                "entities": [],
+                "dataset": "Train"
+            },
+            {
+                "text": "What times are open for today?",
+                "language": "en-us",
+                "intent": "CheckAvailability",
+                "entities": [],
+                "dataset": "Train"
+            },
+            {
+                "text": "I have a conflict so please cancel it",
+                "language": "en-us",
+                "intent": "CancelAppointment",
+                "entities": [],
+                "dataset": "Train"
+            },
+            {
+                "text": "Cancel the session",
+                "language": "en-us",
+                "intent": "CancelAppointment",
+                "entities": [],
+                "dataset": "Train"
+            },
+            {
+                "text": "Please cancel my appointment with Dr.Roy",
+                "language": "en-us",
+                "intent": "CancelAppointment",
+                "entities": [],
+                "dataset": "Train"
+            },
+            {
+                "text": "Book me appointment at the earliest",
+                "language": "en-us",
+                "intent": "BookAppointment",
+                "entities": [],
+                "dataset": "Train"
+            },
+            {
+                "text": "Book me a meeting",
+                "language": "en-us",
+                "intent": "BookAppointment",
+                "entities": [],
+                "dataset": "Train"
+            },
+            {
+                "text": "Is Dr. Smith available tomorrow?",
+                "language": "en-us",
+                "intent": "CheckAvailability",
+                "entities": [],
+                "dataset": "Train"
+            },
+            {
+                "text": "Check availability on Monday",
+                "language": "en-us",
+                "intent": "CheckAvailability",
+                "entities": [],
+                "dataset": "Train"
+            },
+            {
+                "text": "Can I meet Dr. Amy at 5",
+                "language": "en-us",
+                "intent": "CheckAvailability",
+                "entities": [],
+                "dataset": "Train"
+            },
+            {
+                "text": "Cancel with Dr Harrow",
+                "language": "en-us",
+                "intent": "CancelAppointment",
+                "entities": [],
+                "dataset": "Train"
+            },
+            {
+                "text": "I want to cancel the appointment",
+                "language": "en-us",
+                "intent": "CancelAppointment",
+                "entities": [],
+                "dataset": "Train"
+            },
+            {
+                "text": "Cancel my appointment",
+                "language": "en-us",
+                "intent": "CancelAppointment",
+                "entities": [],
+                "dataset": "Train"
+            },
+            {
+                "text": "Book me for Friday at 3 PM",
+                "language": "en-us",
+                "intent": "BookAppointment",
+                "entities": [],
+                "dataset": "Train"
+            },
+            {
+                "text": "Schedule one with Dr. Harrow tomorrow",
+                "language": "en-us",
+                "intent": "BookAppointment",
+                "entities": [],
+                "dataset": "Train"
+            },
+            {
+                "text": "I want to book an appointment",
+                "language": "en-us",
+                "intent": "BookAppointment",
+                "entities": [],
+                "dataset": "Train"
+            }
+        ]
+    }
+}
