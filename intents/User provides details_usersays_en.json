@@ -1,0 +1,25 @@
+[
+  {
+    "id": "63e734d0-51da-436f-af2a-911ada2813c4",
+    "data": [
+      {
+        "text": "my email is ",
+        "userDefined": false
+      },
+      {
+        "text": "kumar@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      },
+      {
+        "text": " and ph no is: 782932939",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

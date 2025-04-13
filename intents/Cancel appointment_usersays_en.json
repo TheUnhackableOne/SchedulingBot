@@ -1,0 +1,41 @@
+[
+  {
+    "id": "5f0707cd-34c2-4c7a-86ac-df18c781c6f2",
+    "data": [
+      {
+        "text": "Cancel the slot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "080e5227-32ef-49bc-95ce-5c69e5870ef8",
+    "data": [
+      {
+        "text": "cancel the appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f0158e98-dc67-43a2-9733-36aa83835075",
+    "data": [
+      {
+        "text": "i want to cancel the appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "id": "749340b4-10e7-48bb-9585-2fbce7acbc2f",
+    "data": [
+      {
+        "text": "i need you to schedule an appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9a86e8ef-9aaf-46c0-94cc-851ab9bcbb51",
+    "data": [
+      {
+        "text": "i want you to schedule an appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1c7fefaa-d52c-47b1-b652-24adff222e55",
+    "data": [
+      {
+        "text": "Book a slot for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e03d8a43-611e-4401-ba36-107710329892",
+    "data": [
+      {
+        "text": "Book an appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d78c975e-f30a-407c-b2ba-0e122bff7da7",
+    "data": [
+      {
+        "text": "help me schedule an appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3763c67b-2fef-47fc-8f79-ca72f9fcfeff",
+    "data": [
+      {
+        "text": "i need an appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1d5fab50-321a-4832-9e11-5887abaed765",
+    "data": [
+      {
+        "text": "schedule an appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6aa0c24c-5531-4cf8-9fff-6a1faeb2f579",
+    "data": [
+      {
+        "text": "i need to schedule an appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c4a88c9b-6ea7-4976-acd9-20f6b8d0114b",
+    "data": [
+      {
+        "text": "Book a slot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]
